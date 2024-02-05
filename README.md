@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saif</h1>
 <h3 align="center">an AI enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://amplify.nabshow.com/wp-content/uploads/sites/12/2022/02/AI-deeplearning.gif">
+(img align="right" alt="Coding" width="400" src="https://amplify.nabshow.com/wp-content/uploads/sites/12/2022/02/AI-deeplearning.gif")
 
 - 🔭 I’m currently working on **machine learning projects**
 

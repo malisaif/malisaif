@@ -1,4 +1,4 @@
-[![MasterHead](https://a.storyblok.com/f/139616/1920x1080/e2bceff675/image-detection.webp)](https://malisaif.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:640/format:webp/1*czcdGNhz6jvyxSRvmuxlSQ.gif)](https://malisaif.io)
 
 <h1 align="center">Hi 👋, I'm Saif</h1>
 <h3 align="center">an AI enthusiast</h3>

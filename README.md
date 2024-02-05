@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:640/format:webp/1*czcdGNhz6jvyxSRvmuxlSQ.gif)](https://malisaif.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:2980/1*yvU4UwoSNCoZ_4h6CEN0wA.png)](https://malisaif.io)
 
 <h1 align="center">Hi 👋, I'm Saif</h1>
 <h3 align="center">an AI enthusiast</h3>

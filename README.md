@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://amplify.nabshow.com/wp-content/uploads/sites/12/2022/02/AI-deeplearning.gif))](https://malisaif.io)
+[![MasterHead](https://a.storyblok.com/f/139616/1920x1080/e2bceff675/image-detection.webp)](https://malisaif.io)
 
 <h1 align="center">Hi 👋, I'm Saif</h1>
 <h3 align="center">an AI enthusiast</h3>
